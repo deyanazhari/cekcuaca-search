@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cekcuaca-search/static/css/main.de4e09a3.chunk.css",
+    "main.js": "/cekcuaca-search/static/js/main.d28c02f1.chunk.js",
+    "main.js.map": "/cekcuaca-search/static/js/main.d28c02f1.chunk.js.map",
+    "runtime-main.js": "/cekcuaca-search/static/js/runtime-main.bad63358.js",
+    "runtime-main.js.map": "/cekcuaca-search/static/js/runtime-main.bad63358.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/cekcuaca-search/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.34e29164.chunk.js": "/cekcuaca-search/static/js/2.34e29164.chunk.js",
+    "static/js/2.34e29164.chunk.js.map": "/cekcuaca-search/static/js/2.34e29164.chunk.js.map",
+    "index.html": "/cekcuaca-search/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/cekcuaca-search/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.de4e09a3.chunk.css.map": "/cekcuaca-search/static/css/main.de4e09a3.chunk.css.map",
+    "static/js/2.34e29164.chunk.js.LICENSE.txt": "/cekcuaca-search/static/js/2.34e29164.chunk.js.LICENSE.txt",
+    "static/media/about.css": "/cekcuaca-search/static/media/BG2.fefa8444.webp",
+    "static/media/weather.css": "/cekcuaca-search/static/media/bg.7b83f7cd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bad63358.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.34e29164.chunk.js",
+    "static/css/main.de4e09a3.chunk.css",
+    "static/js/main.d28c02f1.chunk.js"
+  ]
+}
